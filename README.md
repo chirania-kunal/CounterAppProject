@@ -30,5 +30,7 @@ To run this app locally, you need to have:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/chirania-kunal/CounterApp.git
-   cd Counter-App
+   git clone https://github.com/chirania-kunal/CounterAppProject.git
+   cd CounterAppProject
+   npm install
+   npms start
