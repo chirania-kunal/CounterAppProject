@@ -3,6 +3,7 @@
 A simple React counter app that allows users to increment, decrement, and reset a counter with real-time updates displayed in a 'div'.
 
 ##  About the Project
+<b>It uses the tailwind css starter pack  from <link src="https://github.com/thepranaygupta/react-tailwind-css-starter-pack"></b>
 This project is a basic React app that implements a counter with the following functionalities:
 - Increment: Increases the counter by 1.
 - Decrement: Decreases the counter by 1.
